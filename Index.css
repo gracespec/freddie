@@ -1,0 +1,31 @@
+body {
+ background-color:rgb(144, 180, 158);  
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h3{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+a {
+    color: rgb(93, 160, 128);
+display: flex;
+margin: auto;
+justify-content: center;
+}
+img{
+    display: flex;
+    margin: auto;
+    border: solid 9px white;
+}
